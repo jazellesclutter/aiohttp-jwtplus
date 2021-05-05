@@ -4,7 +4,7 @@
 [![pyversions](https://img.shields.io/pypi/pyversions/aiohttp-jwtplus.svg)](https://pypi.org/project/aiohttp-jwtplus/)
 [![Publish](https://github.com/GoodManWEN/aiohttp-jwtplus/workflows/Publish/badge.svg)](https://github.com/GoodManWEN/aiohttp-jwtplus/actions?query=workflow%3APublish)
 [![build](https://github.com/GoodManWEN/aiohttp-jwtplus/workflows/Build/badge.svg)](https://github.com/GoodManWEN/aiohttp-jwtplus/actions?query=workflow%3ABuild)
-
+ 
 Aiohttp middleware and helper utils for working with JSON web token(signature).
 Added a post router for improving security level of SPAs &amp; auto refresh secrets.
 
